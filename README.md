@@ -36,4 +36,4 @@ streamlit run app.py
 6. ดูผลลัพธ์ของการตรวจจับอารมณ์จากกล้องเว็บแคมของคุณ
 
 
-สามารถลองใช้งานได้ง่ายผ่าน 
+สามารถลองใช้งานได้ง่ายผ่าน https://noctiszia-test-emotion-recognition-web-2-app-zeejly.streamlit.app/
